@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\message-styles-fragments\fixture-router-simple.py
+// Generated at: 2025-10-20T19:39:11.952Z
